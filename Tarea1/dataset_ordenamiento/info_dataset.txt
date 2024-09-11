@@ -2,5 +2,4 @@ Data_set1 arreglo con 100.000 elementos ordenados ascendentemente
 Data_set2 arreglo con 100.000 elementos ordenados desendentemente
 Data_set3 arreglo con 100.000 elementos ordenados de forma aleatoria
 Data_set4 arreglo con 100.000 elementos ordenado de forma ascendente con elementos aleatorios cada x elementos
-Data_set5 arreglo con 100.000 elementos ordenados ascendentemente que cada x elementos un elemento se repite 7 veces
-Data_set6 arreglo con 200.000 elementos ordenados ascendentemente [prueba]
+Data_set5 arreglo con 100.000 elementos ordenados ascendentemente que cada x elementos un elemento se repite 5 veces
